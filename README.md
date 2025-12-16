@@ -6,7 +6,6 @@ I'm a web developer full stack passionate about the Web3 ecosystem and cypherpun
 
 I've e been developing projects with cryptocurrencies like Nanocurrency, IPFS and Ethereum smart contracts in the last few years.
 
-See more at: https://anarkrypto.github.io
 
 <a href="https://ethereum.org/" title="Ethereum"><img src="https://github.com/get-icon/geticon/blob/master/icons/ethereum.svg" alt="Ethereum" width="21px" height="21px"></a>
 <a href="https://ipfs.io/" title="IPFS"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ipfs-logo-1024-ice-text.png/182px-Ipfs-logo-1024-ice-text.png" alt="IPFS" width="21px" height="21px"></a>
